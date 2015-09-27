@@ -1,0 +1,42 @@
+{
+  "name": "MeanBlog",
+  "version": "0.1.0",
+  "description": "this is a mean stack that is develop for blogging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GreenPioneer/MeanBlog.git"
+  },
+  "keywords": [
+    "Mongoose",
+    "Expressjs",
+    "GreenPioneer"
+  ],
+  "author": "Green Pioneer <green@greenpioneersolutions.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GreenPioneer/MeanBlog/issues"
+  },
+  "homepage": "https://github.com/GreenPioneer/MeanBlog",
+  "dependencies": {
+    "body-parser": "^1.14.0",
+    "express": "^4.13.3",
+    "mongoose": "^4.1.8"
+  },
+  "devDependencies": {
+    "connect-livereload": "^0.5.3",
+    "gulp": "^3.9.0",
+    "gulp-csslint": "^0.2.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-livereload": "^3.8.1",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-nodemon": "^2.0.4",
+    "gulp-plato": "^1.0.2",
+    "gulp-using": "0.0.1",
+    "jshint-stylish": "^2.0.1"
+  }
+}
