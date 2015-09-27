@@ -115,7 +115,7 @@ app.delete('/blogs/:id', function(req, res) {
 
 
 
-#### This is [on GitHub](https://github.com/GreenPioneer/MeanBlog)
+#### This is [on GitHub](https://github.com/GreenPioneer/expressMongo)
 #### Find us [on GitHub](https://github.com/GreenPioneer)
 #### Find us [on Twitter](https://twitter.com/greenpioneerdev)
 #### Find us [on Facebook](https://www.facebook.com/Green-Pioneer-Solutions-1023752974341910)
